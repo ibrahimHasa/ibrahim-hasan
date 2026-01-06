@@ -1,8 +1,8 @@
 # 👋 Ibrahim Hasan
 
-**Flutter Developer | 3+ Years Experience**
+**Flutter Developer | 3 Years Experience**
 
-Mobile application developer with 3+ years of experience building **production-ready Flutter applications**. Experienced in delivering scalable, high-quality apps across multiple domains with clean architecture, maintainable code, and real-world deployment on app stores.
+Mobile application developer with 3 years of experience building **production-ready Flutter applications**. Experienced in delivering scalable, high-quality apps across multiple domains with clean architecture, maintainable code, and real-world deployment on app stores.
 
 ---
 
