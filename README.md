@@ -88,6 +88,7 @@ Real estate application for listing properties for sale or rent.
 * Structured data handling for property advertisements
 
 🔗 Google Play: https://play.google.com/store/apps/details?id=sa.aait.aspbranch.contact.maker&pcampaignid=web_share
+
 🔗 App Store: https://apps.apple.com/eg/app/%D8%B5%D8%A7%D9%86%D8%B9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF/id1585808602
 ---
 
@@ -96,6 +97,7 @@ Real estate application for listing properties for sale or rent.
 School booking and management platform.
 
 🔗 Google Play: https://play.google.com/store/apps/details?id=com.flutteraait.bookingschools&pcampaignid=web_share
+
 🔗 App Store: https://apps.apple.com/eg/app/schools-booking/id6502996588 
 
 ---
@@ -105,6 +107,7 @@ School booking and management platform.
 Location-based service discovery application.
 
 🔗 Google Play: https://play.google.com/store/apps/details?id=com.aait.wajahani&pcampaignid=web_share
+
 🔗 App Store: https://apps.apple.com/eg/app/wajjhni-%D9%88%D8%AC%D9%87%D9%86%D9%8A/id6670745161
 
 ---
@@ -114,9 +117,13 @@ Location-based service discovery application.
 Coupons and promotions platform enabling service providers to increase engagement and sales.
 
 🔗 Google Play (User): https://play.google.com/store/apps/details?id=com.aait.fiutter.bestpromoUser&pcampaignid=web_share
+
 🔗 Google Play (Provider): https://play.google.com/store/apps/details?id=com.aait.fiutter.bestpromoProvider&pcampaignid=web_share
+
 🔗 App Store (User): https://apps.apple.com/eg/app/best-promo/id6502256311
+
 🔗 App Store (Provider):https://apps.apple.com/eg/app/best-promo-provider/id6737734051
+
 
 ---
 
@@ -130,8 +137,11 @@ Event planning and management platform connecting users with trusted service pro
 * Designed for scalability and reliability
 
 🔗 Google Play (User): https://play.google.com/store/apps/details?id=com.aait.plano.user&pcampaignid=web_share
+
 🔗 Google Play (Provider): https://play.google.com/store/apps/details?id=com.aait.plano.provider&pcampaignid=web_share
+
 🔗 App Store (User): https://apps.apple.com/eg/app/plano/id6455934288
+
 🔗 App Store (Provider):https://apps.apple.com/eg/app/plano-service-provider/id6455787836
 
 ---
