@@ -4,7 +4,10 @@ Flutter Developer | 4+ Years of Experience
 
 Mobile developer with 4+ years of experience building and shipping production-ready Flutter apps across marketplaces, on-demand services, booking, healthcare, e-commerce, and field-service platforms. I focus on clean architecture, maintainable code, and smooth releases on both the App Store and Google Play.
 
-🚀 Tech Stack Flutter & Dart State Management: BLoC / Cubit, Provider Firebase: Auth, Firestore, FCM REST APIs & Backend Integration Clean Architecture & SOLID Principles, Dependency Injection Maps & Location: Mapbox Payments: MyFatoorah, card and wallet payments Analytics & Attribution: AppsFlyer, Deep Links Release Management: Android & iOS signing, store configuration, production builds Git 📱 Projects Portfolio ⭐ Featured Projects
+🚀 Tech Stack Flutter & Dart State Management: BLoC / Cubit, Provider Firebase: Auth, Firestore, FCM REST APIs & Backend Integration Clean Architecture & SOLID Principles, Dependency Injection Maps & Location: Mapbox Payments: MyFatoorah, card and wallet payments Analytics & Attribution: AppsFlyer, Deep Links Release Management: Android & iOS signing, store configuration, production builds Git.
+
+📱 Projects Portfolio
+⭐ Featured Projects
 
 🔹 Tamt
 
